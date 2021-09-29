@@ -35,10 +35,10 @@ What is necessary to have installed:
 ### Run in terminal:
 ```
 # Clone this repository
-git clone https://github.com/andre23arruda/gatito
+git clone https://github.com/lucas-andrade94/react-native-gatito.git
 
 # Go to the main folder
-cd gatito
+cd react-native-gatito
 
 # Install dependencies
 npm install
@@ -49,6 +49,7 @@ npm start
 
 ### How to run on phone
 - Download Expo App
+- I suggest use Tunnel Connection
 - Scan QR Code
 
 
